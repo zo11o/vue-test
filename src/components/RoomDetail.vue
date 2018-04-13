@@ -16,7 +16,6 @@
           </div>
         </div>
       </div>
-      <!-- <img src="../assets/image/room.png" alt="11"> -->
     </header>
     <article class="main">
       <section class="section section-info">
